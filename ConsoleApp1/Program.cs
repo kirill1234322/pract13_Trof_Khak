@@ -23,6 +23,12 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(a * b);
             }
+
+
+            if (vvod == 6)
+            {
+                Console.WriteLine(a / b);
+            }
         }
     }
 }
