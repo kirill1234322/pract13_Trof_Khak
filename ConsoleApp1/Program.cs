@@ -17,6 +17,12 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(a-b);
             }
+
+
+            if (vvod == 5)
+            {
+                Console.WriteLine(a * b);
+            }
         }
     }
 }
