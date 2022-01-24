@@ -13,7 +13,10 @@ namespace ConsoleApp1
             Console.WriteLine("1.Ввести А\n2.Ввести B\n3.Выполнить операцию +\n4.Выполнить операцию -\n5.Выполнить операцию *\n6.Выполнить операцию /");
             int a=0, b= 0;
             int vvod=int.Parse(Console.ReadLine());
-
+            if(vvod==4)
+            {
+                Console.WriteLine(a-b);
+            }
         }
     }
 }
