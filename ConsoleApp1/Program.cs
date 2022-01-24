@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Ввести А\nВвести B\nВыполнить операцию +\nВыполнить операцию -\nВыполнить операцию *\nВыполнить операцию /");
-            int a=0, b=0;
+            int a=0, b= 0;
             int vvod=int.Parse(Console.ReadLine());
 
         }
