@@ -14,6 +14,8 @@ namespace ConsoleApp1
             int a=0, b= 0;
             int vvod=int.Parse(Console.ReadLine());
 
+
+
         }
     }
 }
